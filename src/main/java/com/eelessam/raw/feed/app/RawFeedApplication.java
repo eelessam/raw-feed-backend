@@ -3,10 +3,11 @@ package com.eelessam.raw.feed.app;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 @SpringBootApplication
-public class Application {
+public class RawFeedApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(RawFeedApplication.class, args);
 	}
 }
