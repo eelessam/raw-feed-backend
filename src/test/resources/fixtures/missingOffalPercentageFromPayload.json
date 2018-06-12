@@ -1,5 +1,5 @@
 {
   "food": "test",
-  "meatPercentage": 10,
-  "bonePercentage": 10
+  "meatPercentage": 99,
+  "bonePercentage": 1
 }

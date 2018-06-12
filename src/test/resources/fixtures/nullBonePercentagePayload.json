@@ -1,5 +1,6 @@
 {
-  "food": "test",
+  "name": "test",
+  "bonePercentage": null,
   "meatPercentage": 99,
   "offalPercentage": 1
 }
